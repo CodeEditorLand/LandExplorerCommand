@@ -1,6 +1,8 @@
 [submodule "node-gyp"]
 	path = node-gyp
-	url = https://github.com/nodejs/node-gyp
+	url = ssh://git@github.com/DependencyCodeEditorLand/NodeGYP.git
+	ignore = all
 [submodule "deps/wil"]
 	path = deps/wil
-	url = https://github.com/microsoft/wil
+	url = ssh://git@github.com/DependencyCodeEditorLand/Wil.git
+	ignore = all
